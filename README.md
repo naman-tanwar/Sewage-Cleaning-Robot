@@ -16,3 +16,9 @@ The distance is calculated in the following way:
 Then, the robot comes back and throws all the sewage at the beginning of the closed sewage line from a gate constructed at the back of the robot which is operated with the help of a servo motor. Now the solid sewage can be removed out of the sewage with the help of a crane.
 The robot will increase its range of cleaning step by step.
 To power this robot we will use an external power supply so there will be no loose connections in the robot which will prevent the wire from arcing with its connection and this will in turn prevent the ignition of methane present inside the sewage lines.
+
+## Circuit
+![N|Solid](https://raw.githubusercontent.com/namanteg/Sewage-Cleaning-Robot/main/CIRCUIT%20-%20SEWAGE%20CLEANING%20ROBOT.png)
+
+## Final Model
+![N|Solid](https://raw.githubusercontent.com/namanteg/Sewage-Cleaning-Robot/main/Photos/3.jpeg)
